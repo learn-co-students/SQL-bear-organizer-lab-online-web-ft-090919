@@ -9,3 +9,6 @@ gem 'rspec'
 
 # Debugging
 gem 'pry'
+
+# Debugging
+gem 'pry-moves'
